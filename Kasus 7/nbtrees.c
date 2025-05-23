@@ -1,5 +1,6 @@
 #include "nbtrees.h"
 
+//go
 void Create_tree(Isi_Tree X, int Jml_node) {
     int i;
     for (i = 0; i <= jml_maks; i++) {
